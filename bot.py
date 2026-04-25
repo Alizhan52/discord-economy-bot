@@ -5,7 +5,7 @@ import random
 from datetime import datetime, timedelta
 
 # ===== НАСТРОЙКИ =====
-TOKEN = os.getenv'MTQ5NzY5MzgxMzUyMTc3NjY5MA.GZBhLW.6KgOkwI1KqCp_i8mW3sNNDmu4X4bK_vBaLG5bs'  # Вставь сюда токен бота
+TOKEN = os.getenv'DISCORD TOKEN'  # Вставь сюда токен бота
 PREFIX = '!'               # Префикс команд
 PASSIVE_INCOME_INTERVAL = 3600  # Интервал дохода: 3600 секунд = 1 час
 
